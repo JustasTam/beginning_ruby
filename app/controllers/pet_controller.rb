@@ -13,3 +13,7 @@ class Dog < PetController
 end
 
 class Snake < PetController; end
+
+def miau
+  p "miau"
+end
